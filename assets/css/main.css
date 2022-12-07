@@ -3245,7 +3245,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #00d97b;
 		}
 
 		.wrapper.style2 {
@@ -3514,7 +3514,7 @@ input, select, textarea {
 
 	#footer > .inner .menu {
 		font-size: 0.8em;
-		color: rgba(255, 255, 255, 0.15);
+		color: rgba(0, 0, 0, 1);
 	}
 
 	#header + #wrapper + #footer > .inner {
